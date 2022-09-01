@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-vertical-navbar",
+  "version": "1.0.0",
+  "description": "Responsive Vertical Navbar built with Bootstrap 5. The vertical navigation component provides an easy way to navigate through your website.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrGusciora/bootstrap-vertical-navbar.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-vertical-navbar",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrGusciora/bootstrap-vertical-navbar/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/vertical-navbar/"
+}
