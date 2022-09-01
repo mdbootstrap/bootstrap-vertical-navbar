@@ -2,7 +2,7 @@
   "name": "bootstrap-vertical-navbar",
   "version": "1.0.0",
   "description": "Responsive Vertical Navbar built with Bootstrap 5. The vertical navigation component provides an easy way to navigate through your website.",
-  "main": "",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
