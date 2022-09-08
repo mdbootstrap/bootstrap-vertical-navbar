@@ -1,7 +1,7 @@
 
 Responsive Vertical Navbar built with Bootstrap 5. The vertical navigation component provides an easy way to navigate through your website.
 
-Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/) for detailed instructions & even more examples.
+Check out [Bootstrap Vertical Navbar Documentation](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/) for detailed instructions & even more examples.
 
 ## Basic example
 
@@ -64,13 +64,13 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 ## More examples
 
 [Bootstrap Vertical navbar on the right:
-![Bootstrap 5 Avatar](/assets/on-the-right.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-on-the-right)
+![Bootstrap 5 Vertical Navbar](/assets/on-the-right.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-on-the-right)
 
 [Bootstrap Vertical navbar not full height:
-![Bootstrap 5 Avatar](/assets/not-full-height.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-not-full-height)
+![Bootstrap 5 Vertical Navbar](/assets/not-full-height.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-not-full-height)
 
 [Bootstrap Vertical navbar Submenu:
-![Bootstrap 5 Avatar](/assets/submenu.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-submenu)
+![Bootstrap 5 Vertical Navbar](/assets/submenu.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-submenu)
 
 ___
 
