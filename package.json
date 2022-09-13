@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-vertical-navbar.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-vertical-navbar.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-vertical-navbar/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-vertical-navbar/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/vertical-navbar/"
 }
