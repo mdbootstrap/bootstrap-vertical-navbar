@@ -5,7 +5,8 @@ Check out [Bootstrap Vertical navbar Documentation](https://mdbootstrap.com/docs
 
 ## Basic example
 
-![Bootstrap 5 Vertical navbar](/assets/basic-example.png)(https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-basic-example)
+[Bootstrap Vertical navbar
+![Bootstrap 5 Vertical navbar](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-basic-example)
 
 ## How to use?
 
